@@ -1,0 +1,16 @@
+INSERT INTO `Employee Titles Table` (`emp_no`, `emp_title`) VALUES
+(1, 'Senior'),
+(2, 'Manager'),
+(3, 'Senior'),
+(4, 'Manager'),
+(5, 'Senior'),
+(6, 'Senior'),
+(7, 'Employee'),
+(8, 'Senior'),
+(9, 'Manager'),
+(10, 'Senior'),
+(11, 'Manager'),
+(12, 'Employee'),
+(13, 'Senior'),
+(14, 'Manager'),
+(15, 'Senior');
