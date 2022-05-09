@@ -1,5 +1,7 @@
-# employee_management_system
+# Employee_Management_System
 DBMS Mini Project for 6th Semester
+
+Team members : Parth Dwivedi - 005, , Shivansh Singh - 008 , Kartick Nelanti - 012 , Taha Jillisger - 019 , Renu Jadhav - 020, Abhinav Tyagi - 022
 
 ## INTRODUCTION
 
